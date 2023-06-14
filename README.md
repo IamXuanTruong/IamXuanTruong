@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @IamXuanTruong
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-IamXuanTruong/IamXuanTruong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Tên
+
+- 👋 Hi, I’m @IamXuanTruong
+
+## Giới thiệu
+
+
+
+## Kỹ năng
+
+- Kỹ năng 1
+- Kỹ năng 2
+- Kỹ năng 3
+
+## Dự án và Công việc
+
+- Dự án 1: Laravel
+- Dự án 2: Reactjs
+
+## Liên hệ
+
+- Email: truongept2003@gmail.com
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- Website: [Personal Website](https://www.your-website.com)
+
+
